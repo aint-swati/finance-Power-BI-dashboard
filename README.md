@@ -10,7 +10,8 @@ Basic Financial Power BI Dashboard for a candy company, "Elephant Sales". Offeri
 6. Narrative for explaination.
 
 # Repository Structure
-Dataset
-Dashboard
-Snapshot
+Dataset <br>
+Dashboard <br>
+Snapshot: <img width="1287" height="718" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/12d9ede0-fb3a-4d7e-a789-19b97d320c9c" />
+
 
